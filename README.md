@@ -13,3 +13,6 @@ We are comparing the agreement :couple: of theoretical rotational constants (A',
 The lowest RMSD value ist better. 
 
 :paperclip: plot_ABC file plot the difference in MHz of the theoretical rotational constants (A', B', C') ontained and the experimental value.
+
+
+:rainbow: List of named colors https://matplotlib.org/3.1.0/gallery/color/named_colors.html
